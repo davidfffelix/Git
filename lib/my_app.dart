@@ -7,6 +7,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.blue,
+      height: 20,
+      width: 20,
     );
   }
 }
